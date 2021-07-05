@@ -135,6 +135,25 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "Elle",
+      "species": "spam",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "Jose",
+      "species": "Giraffe",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "loving"
+      ],
+      "id": "15"
     }
   ]
 }
